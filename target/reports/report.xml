@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Cucumber" time="98.935" tests="1" skipped="0" failures="0" errors="0">
-<testcase classname="Functionality testing of Fitpeo Revenue Calculator" name="Revenue Calculator Functionality - Example #1.1" time="98.708">
+<testsuite name="Cucumber" time="102.67" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Functionality testing of Fitpeo Revenue Calculator" name="Revenue Calculator Functionality - Example #1.1" time="102.449">
 <system-out><![CDATA[
 Given User navigate to Fitpeo landing page..................................passed
 When User navigate to "Revenue Calculator" Page.............................passed
