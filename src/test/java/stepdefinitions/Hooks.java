@@ -40,7 +40,9 @@ public class Hooks
 	@After
 	public void after(Scenario scenario)
 	{
-
+		driver.manage().deleteAllCookies();
+		//driver.close();
+		driver.quit();
 	}
 
 	@AfterStep
