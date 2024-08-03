@@ -1,0 +1,5 @@
+# Created at 2024-08-03T22:03:13.739
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Projects2024\Fitpeo_Assignment\Fitpeo_Revenue_Calculator\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

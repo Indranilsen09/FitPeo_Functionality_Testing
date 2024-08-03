@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="86.394" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Functionality testing of Fitpeo Revenue Calculator" name="Revenue Calculator Functionality - Example #1.1" time="86.251">
+<system-out><![CDATA[
+Given User navigate to Fitpeo landing page..................................passed
+When User navigate to "Revenue Calculator" Page.............................passed
+And Scroll Down to the slider section.......................................passed
+When User set the slider "820"..............................................passed
+Then Set the patient number to "520"........................................passed
+And User choose CPT codes"CPT-99091", "CPT-99453", "CPT-99454" and "CPT-99474".passed
+Then User validate Total Recurring reimbursement "70200"....................passed
+]]></system-out>
+</testcase>
+</testsuite>

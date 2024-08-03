@@ -1,0 +1,6 @@
+locators\PageLocators.class
+page\FitpeoPage.class
+page\ReusableOperations.class
+stepdefinitions\Hooks.class
+stepdefinitions\FitpeoStepdef.class
+runner\TestRunner.class
